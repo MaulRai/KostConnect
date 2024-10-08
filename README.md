@@ -28,6 +28,7 @@ Aplikasi ini di-deploy pada platform Pacil Web Service (pbp.cs.ui.ac.id) dan dap
 [SOVITA: Souvenir Kita APP](https://muhammad-rafli33-souvenirkita.pbp.cs.ui.ac.id/)
 
 ### Our Souvenirs, Your Unforgettable Memories 🏝️⛅
-![VacationtimeIslandGIF](https://github.com/user-attachments/assets/b4d42ebb-8d0e-45bc-bae3-6a3c0f8dd2ae)
+![UltraMiamiMusicGIF](https://github.com/user-attachments/assets/f85c8603-9108-49d6-877b-ff1c62d82cd2)
+
 
 
