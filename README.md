@@ -24,5 +24,5 @@
 ## _Role_ atau Peran Pengguna
 ---
 ## Link Deployment Aplikasi
-Aplikasi ini di-deploy pada platform Pacil Web Service (pbp.cs.ui.ac.id) dan dapat diakses melalui tautan berikut:
+Aplikasi ini di-deploy pada platform Pacil Web Service (pbp.cs.ui.ac.id) dan dapat diakses melalui tautan berikut:\
 [SOVITA: Souvenir Kita APP](https://muhammad-rafli33-souvenirkita.pbp.cs.ui.ac.id/)
