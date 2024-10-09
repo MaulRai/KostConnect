@@ -21,6 +21,13 @@
 ---
 ## Modul-modul SOVITA 📢📌
 ---
+## Sumber Initial Dataset Kategori Utama Produk
+* [Toko balil_bali]{https://shopee.co.id/tokobali_bali.38?entryPoint=ShopBySearch&searchKeyword=bali&is_from_login=true}
+* [prema_rasa]{https://shopee.co.id/prema_rasa?entryPoint=ShopBySearch&searchKeyword=oleh%20oleh%20khas%20bali}
+* [Kampung Souvenir]{https://shopee.co.id/kampungsouvenir?categoryId=100017&entryPoint=ShopByPDP&itemId=1422862357&upstream=search}
+* [Holic Stuff]{https://shopee.co.id/holic.stuff?categoryId=100017&entryPoint=ShopByPDP&itemId=11141834447&upstream=search}
+* [Krisna Bali]{https://shop.krisnabali.co.id/store/}
+---
 ## _Role_ atau Peran Pengguna 💻
 1. **Admin**🧑‍💻👨‍💻\
    Admin bertanggung jawab dalam menambahkan produk suvenir ke dalam aplikasi. Admin dapat mengunggah informasi-informasi tentang produk seperti deskripsi, harga, gambar produk, stok, kategori, dan lain-lain. Admin juga dapat memperbaharui dan menghapus produk dengan hak akses penuh, memastikan produk selalu akurat, faktual, dan terkini.
