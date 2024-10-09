@@ -21,22 +21,22 @@
 * Memberikan sensasi pengalaman liburan yang maksimal dari produk cinderamata berkualitas khas Bali. Karena cinderamata dapat menjadi kenangan yang tidak dapat terlupakan dari sebuah perjalanan liburan.
 ---
 ## Modul-modul SOVITA 📢📌
-1. **Dashboard**
+1. **Dashboard**\
 Laman ini menampilkan produk-produk yang sudah dipersonalisasi. Pada display, terdapat card produk yang bisa di interaksi oleh user.
 
-2. **Laman tambah produk**
+2. **Laman tambah produk**\
 Laman ini berisi form untuk menambahkan produk. Laman ini hanya bisa diakses oleh admin yang terautentikasi.
 
-3. **Search and Filter page**
+3. **Search and Filter page**\
 Laman untuk menampilkan berdasarkan keyword dan filter yang diterapkan.
 
-4. **Product page**
+4. **Product page**\
 Laman untuk melihat detil produk seperti nama, harga, deskripsi, dan nama toko. User juga dapat mengulas produk baik dengan nilai rating dan komentar. Lalu pada toko dari produk-produk ini akan ditampilkan juga rating toko.
 
-5. **Laman profil toko**
+5. **Laman profil toko**\
 Laman ini menampilkan produk-produk pada toko tersebut dan rating toko.
 
-6. **Wishlist**
+7. **Wishlist**\
 Laman yang berisi produk yang disimpan sebagai wishlist. Laman ini hanya bisa diakses oleh user  yang terautentikasi.
 ---
 ## Sumber Initial Dataset Kategori Utama Produk
