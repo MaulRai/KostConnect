@@ -27,11 +27,11 @@
 
 2. **Pengguna**
 Pengguna umum dapat melihat produk yang tersedia dalam aplikasi dan melakukan filter berdasarkan kategori yang diinginkan, seperti kerajinan tangan, makanan khas, atau pakaian. Pengguna dibagi dua berdasarkan autentikasinya di dalam website:
-* Pengguna yang belum ter-autentikasi
+* a. Pengguna yang belum ter-autentikasi
 Melakukan filter produk berdasarkan kategori produk
 Melihat produk pada halaman utama dan melihat detail produk
 
-* Pengguna yang sudah ter-autentikasi
+* b. Pengguna yang sudah ter-autentikasi
 Melakukan filter produk berdasarkan kategori produk
 Melihat produk pada halaman utama dan melihat detail produk
 Memberikan review dan rating pada produk
