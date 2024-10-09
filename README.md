@@ -12,6 +12,7 @@
 ---
 ## Deksripsi SOVITA 🏪📚
    Bali adalah pulau indah nan memesona, tidak afdol kalau tidak membawa oleh-oleh. Namun, banyak orang yang bingung memilih oleh-oleh apa yang kira-kira cocok untuk dibawa pulang. Memperkenalkan **SOVITA**, aplikasi pencari produk oleh-oleh di sekitar daerah Bali. **SOVITA** membantu pengguna-pengguna menemukan oleh-oleh terbaik pada berbagai toko di Bali. Aplikasi kami dilengkapi filter pencarian, dashboard yang terpersonalisasi, rate produk pada toko, dan wishlist.
+   
 ---
 ## Manfaat SOVITA 🤖⚙️
 * Penyedia informasi kepada para turis yang datang ke Bali baik yang turis domestik maupun mancanegara mengenai bermacam-macam cinderamata atau oleh-oleh yang berasal dari Bali
